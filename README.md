@@ -23,15 +23,15 @@ For development, you will only need Node.js and a node global package installed 
 ## Project Installation
   After installing node, this project will need many NPM Packages, so just run the following command to install all.
 
-    $ git clone Here(https://github.com/pijush-konar-au7/assignmentchatapp)
-    $ cd assignmentchatapp
+    $ git clone Here(https://github.com/pijush-konar-au7/backEnd_Dhawani)
+    $ cd backEnd_Dhawani
     $ npm i
 
 ---
 
 ## Configuration
 
-Open `backEnd\config` then create and dev.env file and edit it with your infos. You will need:
+Open `backEnd_Dhawani\config` then create and dev.env file and edit it with your infos. You will need:
 
 - PORT=`Your Desired Port`
 - MONGODB_URL=`Your Database Address`
